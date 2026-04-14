@@ -49,4 +49,4 @@ Becoming a **Cloud Engineer** — one project at a time.
 
 ## 📜 Certifications
 
-- 🔄 **Microsoft Azure Fundamentals (AZ-900)** – In progress SH
+- 🔄 **Microsoft Azure Fundamentals (AZ-900)** – In progress
